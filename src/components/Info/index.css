@@ -1,0 +1,32 @@
+#contact {
+  color:  rgb(190, 100, 142);
+  font-size: 30px;
+  margin-left: 25px;
+}
+
+#github {
+  margin-left: 25px;
+  color: rgba(0, 0, 0, 0.76);
+}
+
+#github:hover {
+  opacity: 0.7;
+}
+
+#linkedin {
+  margin-left: 10px;
+  color:#007bb5;
+}
+
+#linkedin:hover {
+  opacity: 0.7;
+}
+
+#resume {
+  margin-left: 10px;
+  color: rgba(199, 29, 108, 0.87);
+}
+
+#resume:hover {
+  opacity: 0.7;
+}
