@@ -6,10 +6,10 @@ import './index.css';
 function Info() {
   return (
     <div>
-      <div classNameName="row">
-        <h2 classNameName="display-4" id="contact">More about me:</h2>
+      <div className="row">
+        <h2 className="display-4" id="contact">More about me:</h2>
       </div>
-      <div classNameNameName="row">
+      <div className="row">
         <a href="https://github.com/jnsmelinda">
           <FaGithub data-toggle="tooltip" size={60} title="Github" id="github"></FaGithub>
         </a>
