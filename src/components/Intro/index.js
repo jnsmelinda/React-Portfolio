@@ -4,8 +4,8 @@ import './index.css';
 function Intro() {
   return (
     <div>
-      <h1 class="display-4" id="greeting">Hi there!</h1>
-      <p class="lead">My name is <strong>Melinda Ivanov</strong>, nice to meet you.</p>
+      <h1 className="display-4" id="greeting">Hi there!</h1>
+      <p className="lead">My name is <strong>Melinda Ivanov</strong>, nice to meet you.</p>
       <p>I am a technical-minded developer leveraging an MSc degree in earth sciences from
       University of Szeged while currently working towards a full-stack web development
       certificate at University of Washington. My experience includes taking responsibilities

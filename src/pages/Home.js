@@ -9,13 +9,13 @@ const Home = () => {
   return (
     <div>
       <Header></Header>
-      <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-          <div class="row" id="intro">
-            <div class="col-sm-7">
+      <div className="jumbotron jumbotron-fluid">
+        <div className="container">
+          <div className="row" id="intro">
+            <div className="col-sm-7">
               <Intro></Intro>
             </div>
-            <div class="col-sm-5">
+            <div className="col-sm-5">
               <ProfileImage></ProfileImage>
             </div>
             <Info></Info>

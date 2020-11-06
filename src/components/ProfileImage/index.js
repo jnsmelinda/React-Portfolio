@@ -5,7 +5,7 @@ import './index.css'
 function ProfileImage() {
   return (
     <div>
-      <img src={profile} alt="Profile" class="center" id="profileImg"></img>
+      <img src={profile} alt="Profile" className="center" id="profileImg"></img>
     </div>
   );
 }
