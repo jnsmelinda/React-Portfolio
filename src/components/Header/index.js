@@ -5,8 +5,8 @@ import './index.css';
 function Header() {
   return (
     <div>
-      <nav classNameName="navbar navbar-light bg-light">
-        <Link to="home" classNameName="logo">MI</Link>
+      <nav className="navbar navbar-light bg-light">
+        <Link to="home" className="logo">MI</Link>
         <ul>
           <li><Link to="home" id="link">Home</Link></li>
           <li><Link to="contact" id="link">Contact</Link></li>
