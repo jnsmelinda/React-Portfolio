@@ -1,0 +1,10 @@
+.Profile {
+  background-image: url("profile.jpg");
+}
+
+.center {
+  display: block;
+  margin: auto;
+  padding-top: 3rem;
+  width: 60%;
+}

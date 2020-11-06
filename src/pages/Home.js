@@ -2,6 +2,7 @@ import React from "react";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import Intro from '../components/Intro';
+import ProfileImage from '../components/ProfileImage';
 
 const Home = () => {
   return (
@@ -14,7 +15,7 @@ const Home = () => {
               <Intro></Intro>
             </div>
             <div class="col-sm-5">
-              <img src="assets/images/profile.jpg" alt="Profile" class="center" id="profileImg"></img>
+              <ProfileImage></ProfileImage>
 
 
               <div class="row">
