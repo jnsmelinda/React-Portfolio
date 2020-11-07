@@ -8,12 +8,12 @@ const Contact = () => {
     <div>
       <Header></Header>
       <div>
-        <div class="jumbotron jumbotron-fluid">
-          <div class="container">
-            <div class="row">
-              <div class='col-sm-6'>
-                <h1 class="display-4" id="greeting">Let's connect!</h1>
-                <div class="row">
+        <div className="jumbotron jumbotron-fluid">
+          <div className="container">
+            <div className="row">
+              <div className='col-sm-6'>
+                <h1 className="display-4" id="greeting">Let's connect!</h1>
+                <div className="row">
                   <a href="https://github.com/jnsmelinda">
                     <FaGithub data-toggle="tooltip" size={70} title="Github" id="github"></FaGithub>
                   </a>
@@ -22,15 +22,15 @@ const Contact = () => {
                   </a>
                 </div>
               </div>
-              <div class='col-sm-6'>
+              <div className='col-sm-6'>
                 <form action="mailto:jns.melinda@gmail.com" method="GET" target="top">
-                  <div class="form-group">
+                  <div className="form-group">
                     <label for="email-subject" style={{color: "rgb(143, 44, 90)"}}>Subject</label>
-                    <input name="subject" class="form-control" id="email-subject" placeholder="Hi Melinda! Let's Connect"></input>
+                    <input name="subject" className="form-control" id="email-subject" placeholder="Hi Melinda! Let's Connect"></input>
                       <label for="email-body" style={{color: "rgb(143, 44, 90)"}}>Message</label>
-                      <textarea name="body" class="form-control" id="email-body" rows="3"></textarea>
+                      <textarea name="body" className="form-control" id="email-body" rows="3"></textarea>
                   </div>
-                    <button type="submit" class="btn btn-primary" id="sendButton">Send</button>     
+                    <button type="submit" className="btn btn-primary" id="sendButton">Send</button>     
                 </form>
               </div>
             </div>
