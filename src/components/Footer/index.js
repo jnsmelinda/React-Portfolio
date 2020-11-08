@@ -4,8 +4,8 @@ import "./index.css";
 function Footer() {
   return (
     <div>
-      <footer classNameName="footer mt-auto py-3">
-        <div classNameName="container">
+      <footer className="footer mt-auto py-3">
+        <div className="container">
           <span className="text-muted">© 2020 Melinda Ivanov</span>
         </div>
       </footer>

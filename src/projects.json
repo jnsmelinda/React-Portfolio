@@ -1,0 +1,44 @@
+[
+  {
+    "name": "VENT",
+    "github": "https://github.com/jnsmelinda/Vent",
+    "image": "images/vent.png",
+    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
+    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+  },
+  {
+    "name": "Eat-Da-Burger",
+    "github": "https://github.com/jnsmelinda/Eat-Da-Burger",
+    "image": "images/burger-demo.png",
+    "description": "This restaurant app lets the users input the names of burgers they'd like to eat. add a burger to the Ready to eat! section When you feel hungry simply Devour! it.",
+    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+  },
+  {
+    "name": "VENT",
+    "github": "https://github.com/jnsmelinda/Vent",
+    "image": "images/vent.png",
+    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
+    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+  },
+  {
+    "name": "VENT",
+    "github": "https://github.com/jnsmelinda/Vent",
+    "image": "images/vent.png",
+    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
+    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+  },
+  {
+    "name": "VENT",
+    "github": "https://github.com/jnsmelinda/Vent",
+    "image": "images/vent.png",
+    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
+    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+  },
+  {
+    "name": "VENT",
+    "github": "https://github.com/jnsmelinda/Vent",
+    "image": "images/vent.png",
+    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
+    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+  }
+]
