@@ -11,34 +11,48 @@
     "github": "https://github.com/jnsmelinda/Eat-Da-Burger",
     "image": "images/burger-demo.png",
     "description": "This restaurant app lets the users input the names of burgers they'd like to eat. add a burger to the Ready to eat! section When you feel hungry simply Devour! it.",
+    "heroku": "https://lit-mesa-27296.herokuapp.com/index"
+  },
+  {
+    "name": "Employee Registry",
+    "github": "https://github.com/jnsmelinda/Employee-Registry",
+    "image": "images/employee-registry.png",
+    "description": "This command line application prompts the user for information about the manager and the team members. After completing the registry an HTML file is generated with the information provided by the user.",
     "heroku": "https://vent-airquality-tracker.herokuapp.com/"
   },
   {
-    "name": "VENT",
-    "github": "https://github.com/jnsmelinda/Vent",
-    "image": "images/vent.png",
-    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
-    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+    "name": "Earthquake Tracker",
+    "github": "https://github.com/jnsmelinda/Earthquake_Tracker",
+    "image": "images/earthquake.jpg",
+    "description": "Interactive website to help concerned citizens see where earthquakes are happening around the globe.",
+    "heroku": "https://jnsmelinda.github.io/Earthquake_Tracker"
   },
   {
-    "name": "VENT",
-    "github": "https://github.com/jnsmelinda/Vent",
-    "image": "images/vent.png",
-    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
-    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+    "name": "Weather Dashboard",
+    "github": "https://github.com/jnsmelinda/Weather-Dashboard",
+    "image": "images/weather.png",
+    "description": "Weather dashboard to allow the user to search for location and the app displays the current weather and 5 days forecast on the screen.",
+    "heroku": "https://jnsmelinda.github.io/Weather-Dashboard"
   },
   {
-    "name": "VENT",
-    "github": "https://github.com/jnsmelinda/Vent",
-    "image": "images/vent.png",
-    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
-    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+    "name": "Work Day Schedule",
+    "github": "https://github.com/jnsmelinda/Work-Day-Scheduler",
+    "image": "images/scheduler.png",
+    "description": "This calendar application allows the user to save events for each business hour of the day. When clicking into a timeblock the user can enter an event.",
+    "heroku": "https://jnsmelinda.github.io/Work-Day-Scheduler/"
   },
   {
-    "name": "VENT",
-    "github": "https://github.com/jnsmelinda/Vent",
-    "image": "images/vent.png",
-    "description": "Interactive website to help concerned citizens to see the air quality in their area and to provide a platform where they are able to express their feelings alongside a short message to their local representative regarding the air quality.",
-    "heroku": "https://vent-airquality-tracker.herokuapp.com/"
+    "name": "Code Quiz",
+    "github": "https://github.com/jnsmelinda/Code-Quiz",
+    "image": "images/start.png",
+    "description": "This application prepares you for JavaScript interviews. You have 2 minutes to answer 10 questions. Every wrong answear costs 10 seconds. When all questions are answered or the timer reaches 0 the game is over, your score is presented and you can save your name and score.",
+    "heroku": "https://jnsmelinda.github.io/Code-Quiz"
+  },
+  {
+    "name": "Password Generator",
+    "github": "https://github.com/jnsmelinda/Password-generator",
+    "image": "images/password.png",
+    "description": "The random password generator promts the user for the password length (8-128) and the strength of the password (lower case, upper case, numerical, special characters), then displays the generated password on the screen.",
+    "heroku": "https://jnsmelinda.github.io/Password-generator"
   }
 ]
