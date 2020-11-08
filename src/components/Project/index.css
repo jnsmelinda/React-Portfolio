@@ -12,3 +12,7 @@
 a:hover {
   text-decoration: none;
 }
+
+#cardText, #herokuLink{
+  color:  rgb(143, 44, 90);
+}
