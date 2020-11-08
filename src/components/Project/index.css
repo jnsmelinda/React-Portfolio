@@ -8,3 +8,7 @@
 #cardId {
   margin-bottom: 15px;
 }
+
+a:hover {
+  text-decoration: none;
+}
