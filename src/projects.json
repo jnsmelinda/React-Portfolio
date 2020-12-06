@@ -1,5 +1,12 @@
 [
   {
+    "name": "Google Book Search",
+    "github": "https://github.com/jnsmelinda/Google-Book-Search",
+    "image": "images/googlebooks.png",
+    "description": "This app allowes you to search for books and in the search page save them to the reading-list or view them on google. When the book has been read, it can be deleted from the reading-list.",
+    "heroku": "https://protected-island-24963.herokuapp.com/#/search"
+  },
+  {
     "name": "VENT",
     "github": "https://github.com/jnsmelinda/Vent",
     "image": "images/vent.png",
@@ -25,7 +32,7 @@
     "github": "https://github.com/jnsmelinda/Earthquake_Tracker",
     "image": "images/earthquake.jpg",
     "description": "Interactive website to help concerned citizens see where earthquakes are happening around the globe.",
-    "heroku": "https://jnsmelinda.github.io/Earthquake_Tracker"
+    "heroku": "https://protected-island-24963.herokuapp.com/#/search"
   },
   {
     "name": "Weather Dashboard",
