@@ -5,6 +5,7 @@ import Intro from '../components/Intro';
 import ProfileImage from '../components/ProfileImage';
 import Info from '../components/Info';
 import Project from "../components/Project";
+import Contact from "../components/Contact";
 
 function Home() {
 
@@ -28,6 +29,13 @@ function Home() {
           </div>
           <div className="row">
             <Project></Project>
+          </div>
+
+          <div className="row" id="contact">
+            <h2 id="sectiontitle">Contact</h2>
+          </div>
+          <div className="row">
+            <Contact></Contact>
           </div>
         </div>
       </div>
