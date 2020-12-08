@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-scroll";
 import './index.css';
 
 function Header() {
@@ -8,9 +8,9 @@ function Header() {
       <nav className="navbar navbar-light bg-light">
         <Link to="home" className="logo">MI</Link>
         <ul>
-          <li><Link to="home" id="link">Home</Link></li>
-          <li><Link to="contact" id="link">Contact</Link></li>
-          <li><Link to="projects" id="link">Projects</Link></li>
+          <li><Link to="home" id="link" smooth={true}>Home</Link></li>
+          <li><Link to="contact" id="link" smooth={true}>Contact</Link></li>
+          <li><Link to="projects" id="link" smooth={true}>Projects</Link></li>
         </ul>
       </nav>
     </div>

@@ -4,8 +4,10 @@ import Footer from '../components/Footer';
 import Intro from '../components/Intro';
 import ProfileImage from '../components/ProfileImage';
 import Info from '../components/Info';
+import Project from "../components/Project";
 
-const Home = () => {
+function Home() {
+
   return (
     <div>
       <Header></Header>
@@ -19,6 +21,13 @@ const Home = () => {
               <ProfileImage></ProfileImage>
             </div>
             <Info></Info>
+          </div>
+
+          <div className="row" id="projects">
+            <h2 id="sectiontitle">Projects</h2>
+          </div>
+          <div className="row">
+            <Project></Project>
           </div>
         </div>
       </div>

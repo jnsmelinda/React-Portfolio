@@ -7,7 +7,7 @@ function Info() {
   return (
     <div>
       <div className="row">
-        <h2 className="display-4" id="contact">More about me:</h2>
+        <h2 className="display-4" id="contactLinks">More about me:</h2>
       </div>
       <div className="row">
         <a href="https://github.com/jnsmelinda">
