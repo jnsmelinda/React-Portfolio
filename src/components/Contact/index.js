@@ -3,19 +3,21 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 function Contact() {
   return (
-    <div className="row">
-      <div className='col-sm-6'>
-        <h1 className="display-4" id="greeting">Let's connect!</h1>
+    <div className="row" id="contactsection">
+      <div className="col-6">
+        <h2 id="greeting">Let's connect!</h2>
         <div className="row">
-          <a href="https://github.com/jnsmelinda">
-            <FaGithub data-toggle="tooltip" size={70} title="Github" id="github"></FaGithub>
-          </a>
-          <a href="https://www.linkedin.com/in/melinda-ivanov/">
-            <FaLinkedin data-toggle="tooltip" size={70} title="LinkedIn" id="linkedin"></FaLinkedin>
-          </a>
+          <div className="col">
+            <a href="https://github.com/jnsmelinda">
+              <FaGithub data-toggle="tooltip" size={70} title="Github" id="github"></FaGithub>
+            </a>
+            <a href="https://www.linkedin.com/in/melinda-ivanov/">
+              <FaLinkedin data-toggle="tooltip" size={70} title="LinkedIn" id="linkedin"></FaLinkedin>
+            </a>
+          </div>
         </div>
       </div>
-      <div className='col-sm-6'>
+      <div className="col">
         <form action="mailto:jns.melinda@gmail.com" method="GET" target="top">
           <div className="form-group">
             <label for="email-subject" style={{ color: "rgb(143, 44, 90)" }}>Subject</label>
