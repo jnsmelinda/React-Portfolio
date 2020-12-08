@@ -1,5 +1,12 @@
 [
   {
+    "name": "Disaster Dashboard",
+    "github": "https://github.com/jnsmelinda/Disaster_Dashboard",
+    "image": "images/disaster.png",
+    "description": "This app is built to collect recent disasters, near earth events, COVID-19 Statistics, the Silver and Gold price and a checklist allowing to verify the items needed to survive a disaster. When feeling to stressed look at puppies on the top to relax.",
+    "heroku": "https://cryptic-castle-46514.herokuapp.com/"
+  },
+  {
     "name": "Google Book Search",
     "github": "https://github.com/jnsmelinda/Google-Book-Search",
     "image": "images/googlebooks.png",
